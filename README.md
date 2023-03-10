@@ -1,16 +1,9 @@
 # timeline_assignment
 
-A new Flutter project.
+This project was created using flutter and timelines dependency. I added a timeline builder to make this application. Hope you like it!
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/66449020/224343603-cae5fa1c-d88d-4915-a617-ef6018708d72.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="179" alt="snap" src="https://user-images.githubusercontent.com/66449020/224343757-ac2b1e10-e807-4cfe-bf6e-eb5cabbf6053.png">
